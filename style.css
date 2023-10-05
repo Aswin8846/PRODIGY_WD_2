@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(21, 26, 170);
+    background: blue;
+  }
+  
+  .stopwatch {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .time-display {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 5px;
+  }
+  
